@@ -1,6 +1,8 @@
 ---
 title: Continuous Loop
 description: V2 スプリントレス一括ビルド（Opus 4.6向け）
+sidebar:
+  order: 4
 ---
 
 ## 概要

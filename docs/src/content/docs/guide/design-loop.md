@@ -1,6 +1,8 @@
 ---
 title: Design Loop
 description: フロントエンドデザインのGAN的フィードバックループ
+sidebar:
+  order: 2
 ---
 
 ## 概要

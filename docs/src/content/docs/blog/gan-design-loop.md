@@ -1,6 +1,8 @@
 ---
 title: GAN Design Loop — 実装と実験
 description: Anthropicの記事を参考にマルチエージェントシステムを構築した話
+sidebar:
+  order: 1
 ---
 
 ## TL;DR

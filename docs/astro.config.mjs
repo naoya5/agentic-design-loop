@@ -14,27 +14,15 @@ export default defineConfig({
       sidebar: [
         {
           label: 'ガイド',
-          items: [
-            { label: 'はじめに', slug: 'guide/getting-started' },
-            { label: 'Design Loop', slug: 'guide/design-loop' },
-            { label: 'Fullstack Loop', slug: 'guide/fullstack-loop' },
-            { label: 'Continuous Loop', slug: 'guide/continuous-loop' },
-          ],
+          autogenerate: { directory: 'guide' },
         },
         {
           label: 'リファレンス',
-          items: [
-            { label: 'CLI', slug: 'reference/cli' },
-            { label: '評価基準', slug: 'reference/evaluation-criteria' },
-            { label: 'アーキテクチャ', slug: 'reference/architecture' },
-            { label: 'モデル設定', slug: 'reference/config' },
-          ],
+          autogenerate: { directory: 'reference' },
         },
         {
           label: 'ブログ',
-          items: [
-            { label: '実装と実験', slug: 'blog/gan-design-loop' },
-          ],
+          autogenerate: { directory: 'blog' },
         },
       ],
     }),

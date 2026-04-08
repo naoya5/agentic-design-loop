@@ -1,6 +1,8 @@
 ---
 title: CLI リファレンス
 description: adl コマンドの全オプション
+sidebar:
+  order: 1
 ---
 
 ## インストール
