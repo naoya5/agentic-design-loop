@@ -1,4 +1,7 @@
-# GAN Design Loop
+# Agentic Design Loop
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://naoya5.github.io/agentic-design-loop/)
 
 Claude Agent SDK を使ったマルチエージェントの GAN 的デザイン＆開発ループ。
 
