@@ -1,0 +1,38 @@
+{
+  "name": "agentic-design-loop",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "GAN-inspired multi-agent design & development loop using Claude Agent SDK",
+  "bin": {
+    "adl": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "design": "npx tsx src/cli.ts design",
+    "fullstack": "npx tsx src/cli.ts fullstack",
+    "continuous": "npx tsx src/cli.ts continuous"
+  },
+  "keywords": [
+    "claude",
+    "agent-sdk",
+    "multi-agent",
+    "gan",
+    "design-loop",
+    "code-generation",
+    "ai-engineering"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naoya5/agentic-design-loop.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

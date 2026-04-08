@@ -1,0 +1,12 @@
+node_modules/
+dist/
+output/
+archive/
+*.tsbuildinfo
+.DS_Store
+.env
+
+# Docs build
+docs/node_modules/
+docs/dist/
+docs/.astro/
