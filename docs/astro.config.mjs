@@ -37,8 +37,6 @@ export default defineConfig({
           ],
         },
       ],
-      defaultLocale: 'ja',
-      locales: { ja: { label: '日本語' } },
     }),
   ],
 });
