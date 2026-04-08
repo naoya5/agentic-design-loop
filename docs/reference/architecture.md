@@ -1,8 +1,6 @@
 ---
 title: アーキテクチャ
 description: システム設計と通信パターン
-sidebar:
-  order: 3
 ---
 
 ## 設計思想

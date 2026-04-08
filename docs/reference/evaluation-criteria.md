@@ -1,8 +1,6 @@
 ---
 title: 評価基準
 description: デザインとQAの評価基準詳細
-sidebar:
-  order: 2
 ---
 
 ## Phase 1: フロントエンドデザイン評価

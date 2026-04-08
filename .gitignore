@@ -8,5 +8,5 @@ archive/
 
 # Docs build
 docs/node_modules/
-docs/dist/
-docs/.astro/
+docs/.vitepress/dist/
+docs/.vitepress/cache/

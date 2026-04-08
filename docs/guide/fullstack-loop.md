@@ -1,8 +1,6 @@
 ---
 title: Fullstack Loop
 description: スプリント型フルスタックアプリ生成
-sidebar:
-  order: 3
 ---
 
 ## 概要

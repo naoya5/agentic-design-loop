@@ -1,8 +1,6 @@
 ---
 title: はじめに
 description: インストールとクイックスタート
-sidebar:
-  order: 1
 ---
 
 ## インストール

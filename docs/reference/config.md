@@ -1,8 +1,6 @@
 ---
 title: モデル設定
 description: モデル選択と価格テーブル
-sidebar:
-  order: 4
 ---
 
 ## モデル価格テーブル
