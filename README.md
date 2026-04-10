@@ -2,8 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://naoya5.github.io/agentic-design-loop/)
+[![Demo](https://img.shields.io/badge/demo-TaskFlow-black)](https://agentic-design-loop.vercel.app/)
 
 Claude Agent SDK を使ったマルチエージェントの GAN 的デザイン＆開発ループ。
+
+> **[Live Demo: TaskFlow](https://agentic-design-loop.vercel.app/)** — Opus 4.6 の continuous-loop で自動生成されたプロジェクト管理ツール（カンバン・ガントチャート・AI機能付き）
 
 [Anthropic の GAN-inspired design 記事](https://www.anthropic.com/engineering/advancing-ai-engineering)に基づき、Generator（生成）と Evaluator（評価）を分離し、フィードバックループで品質を自動的に向上させる。
 

@@ -9,6 +9,9 @@ hero:
       text: はじめに
       link: /guide/getting-started
     - theme: alt
+      text: Live Demo (TaskFlow)
+      link: https://agentic-design-loop.vercel.app/
+    - theme: alt
       text: GitHub
       link: https://github.com/naoya5/agentic-design-loop
 features:
